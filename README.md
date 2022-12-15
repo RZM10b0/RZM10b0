@@ -1,5 +1,4 @@
-### Hi there 👋
-
+ 
 
 ## My Portfolio and Work 👀 -
 ### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
